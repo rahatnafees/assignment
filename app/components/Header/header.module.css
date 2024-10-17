@@ -1,0 +1,17 @@
+
+.header{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: rgb(90, 0,33);
+height: 70px;
+}
+#container{
+    display:flex;
+    gap: 15px;
+    color: white;
+    text-align: justify;
+
+}
+
+
